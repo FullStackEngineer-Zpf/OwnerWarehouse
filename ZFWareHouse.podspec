@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "ZFWareHouse.podspec"
+  s.name         = "ZFWareHouse"
   s.version      = "0.0.1"
   s.summary      = "张鹏飞的Podtest"
 
