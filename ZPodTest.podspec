@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
 
-  s.name         = "CLRollingCycleView"
+  s.name         = "ZPodTest"
   s.version      = "0.0.1"
-  s.summary      = "循环滚动播放图片"
+  s.summary      = "张鹏飞的Podtest"
 
   s.description  = <<-DESC
        循环滚动播放图片,自动播放,手动播放
