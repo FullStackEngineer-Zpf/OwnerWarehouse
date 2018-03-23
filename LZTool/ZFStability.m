@@ -68,7 +68,7 @@
 @end
 
 ////////////////////////////////////////////////////////////////
-
+/*
 @interface NSArray (YCBStability)
 @end
 
@@ -121,7 +121,7 @@ void array_method_exchangeImplementations(Class cls, SEL name, SEL name2) {
 @end
 
 ///////////////////////////////////////////////////////////
-
+*/
 @interface NSMutableArray (YCBStability)
 @end
 
